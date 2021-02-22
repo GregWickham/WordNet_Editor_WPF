@@ -27,3 +27,8 @@ If the selected gloss and the usage examples are what we're looking for, we can 
 By double-clicking on a gloss to focus on a synset, we've established our toe-hold into WordNet's semantic network.  The "Find synset from word" tool collapses, and details are displayed for the synset that we just selected:
 
 ![Details of selected synset](/images/Synset_details_1.jpg)
+
+If you'd like to select a different, unrelated synset, you can always get back to the "Find synset from word" tool by clicking its expand / collapse button in the menu bar:
+
+![Find synset from word expand / collapse button](/images/Find_synset_from_word_button.jpg)
+
