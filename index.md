@@ -12,5 +12,18 @@ Before we can start browsing synsets, we first need to get a "toe-hold" into the
 
 ![Find synset from word](/images/Find_synset_from_word_1.jpg)
 
+If we select a part of speech and enter a word in the text box, the browser displays synsets that are linked to a matching word sense:
 
+![Find synset from word - synsets matching word](/images/Find_synset_from_word_2.jpg)
 
+When we select one of the synset glosses from the list, usage examples for that synset are displayed in the right-hand list:
+
+![Find synset from word - usage examples for selected synset](/images/Find_synset_from_word_3.jpg)
+
+If the selected gloss and the usage examples are what we're looking for, we can focus the browser on that synset by double-clicking on its gloss:
+
+![Find synset from word - double click on selected synset](/images/Find_synset_from_word_4.jpg)
+
+By double-clicking on a gloss to focus on a synset, we've established our toe-hold into WordNet's semantic network.  The "Find synset from word" tool collapses, and details are displayed for the synset that we just selected:
+
+![Details of selected synset](/images/Synset_details_1.jpg)
