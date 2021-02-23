@@ -54,5 +54,28 @@ Double-clicking on "make or wage war" causes that synset to become the new focus
 
 ![Synset navigator - change focus by following relation](/images/New_synset_navigator_focus.jpg)
 
+To show word senses linked to the synset focused in the synset navigator, click the "Show wood senses" toggle button:
+
+![Show word senses toggle button](/images/Show_word_senses_button.jpg)
+
+This action opens the word senses navigator.  At the top of this navigator is a list of the word senses related to the focused synset:
+
+![Word senses linked to synset](/images/Word_senses_make_or_wage_war.jpg)
+
+Double-clicking a word sense in this list makes that word sense the focus of the word sense navigator:
+
+![Word sense navigator](/images/Word_sense_navigator_1.jpg)
+
+The word sense navigator is similar to the synset navigator:  Many of its lists contain word senses adjacent to the focused word sense, through relations defined in WordNet.  For example, "warrior" is a noun derived from the verb "war":
+
+![Word sense navigator - warrior](/images/Word_sense_navigator_warrior.jpg)
+
+If we double-click "warrior" in the list of words derived from "war," "warrior" becomes the new focus of the word senses navigator:
+
+![Word sense navigator - warrior focused](/images/Word_sense_navigator_warrior_focused.jpg)
+
+
+
+
 
 
