@@ -59,6 +59,8 @@ Double-clicking on "make or wage war" causes that synset to become the new focus
 
 ![Synset navigator - change focus by following relation](/images/New_synset_navigator_focus.jpg)
 
+### Navigating word senses
+
 To show word senses linked to the synset focused in the synset navigator, click the "Show wood senses" toggle button:
 
 ![Show word senses toggle button](/images/Show_word_senses_button.jpg)
