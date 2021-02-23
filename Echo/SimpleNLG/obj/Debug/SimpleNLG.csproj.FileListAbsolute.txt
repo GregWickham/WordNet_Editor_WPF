@@ -1,0 +1,6 @@
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\SimpleNLG\bin\Debug\SimpleNLG.dll.config
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\SimpleNLG\bin\Debug\SimpleNLG.dll
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\SimpleNLG\bin\Debug\SimpleNLG.pdb
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\SimpleNLG\obj\Debug\SimpleNLG.csproj.CoreCompileInputs.cache
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\SimpleNLG\obj\Debug\SimpleNLG.dll
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\SimpleNLG\obj\Debug\SimpleNLG.pdb

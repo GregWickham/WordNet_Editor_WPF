@@ -1,0 +1,17 @@
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\SimpleNLG_Tests.dll
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\SimpleNLG_Tests.pdb
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\SimpleNLG.dll
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\SimpleNLG.pdb
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\SimpleNLG.dll.config
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\obj\Debug\SimpleNLG_Tests.csprojAssemblyReference.cache
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\obj\Debug\SimpleNLG_Tests.csproj.CoreCompileInputs.cache
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\obj\Debug\SimpleNLG_Tests.csproj.CopyComplete
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\obj\Debug\SimpleNLG_Tests.dll
+C:\Users\gregw\source\repos\Flex\Echo\SimpleNLG_Tests\obj\Debug\SimpleNLG_Tests.pdb

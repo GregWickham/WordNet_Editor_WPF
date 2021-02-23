@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\gregw\source\repos\Flex\WordNet_UI_WPF\obj\Debug\
+C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\obj\Debug\
 WordNet.UserInterface
 none
 false
 DEBUG;TRACE
-C:\Users\gregw\source\repos\Flex\WordNet_UI_WPF\App.xaml
+C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\App.xaml
 51797154657
 
 111768333957
-16-1741357039
+16-945289560
 SynsetNavigatorControl.xaml;WordNetBrowserWindow.xaml;WordSenseNavigatorControl.xaml;WordSensesForSynsetControl.xaml;WordToSynsetSelectorControl.xaml;
 
 False

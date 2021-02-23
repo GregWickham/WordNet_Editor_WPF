@@ -1,0 +1,10 @@
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\bin\Debug\FlexibleRealization.dll
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\bin\Debug\FlexibleRealization.pdb
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\bin\Debug\SimpleNLG.dll
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\bin\Debug\SimpleNLG.pdb
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\bin\Debug\SimpleNLG.dll.config
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\obj\Debug\FlexibleRealization.csprojAssemblyReference.cache
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\obj\Debug\FlexibleRealization.csproj.CoreCompileInputs.cache
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\obj\Debug\FlexibleRealization.csproj.CopyComplete
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\obj\Debug\FlexibleRealization.dll
+C:\Users\gregw\source\repos\WordNet_GUI\Echo\FlexibleRealization\obj\Debug\FlexibleRealization.pdb
