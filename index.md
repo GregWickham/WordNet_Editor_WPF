@@ -6,7 +6,12 @@ This is a user interface for WordNet, developed on the Windows WPF platform.  It
 
 ## Browsing WordNet
 
-The user interface is centered around synsets, not words -- because that's how I perceive that WordNet itself is organized.  The typical workflow is to first browse the semantic network of synsets until we find a synset of particular interest; then (optionally) browse the network of word senses linked to that synset.
+The user interface is centered around synsets, not words -- because that's how I perceive that WordNet itself is organized.  The typical workflow is:
+
+* Search for a word sense of interest;
+* Use the word sense to find a related synset;
+* Navigate through the network of synsets, using the relations between them like hyperlinks;
+* (optionally) browse the network of word senses linked to a synset.
 
 ### Finding a synset from a word
 
