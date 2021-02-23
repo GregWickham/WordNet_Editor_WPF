@@ -11,7 +11,7 @@ The user interface is centered around synsets, not words -- because that's how I
 * Search for a word sense of interest;
 * Use the word sense to find a related synset;
 * Navigate through the network of synsets, using the relations between them like hyperlinks;
-* (optionally) browse the network of word senses linked to a synset.
+* (optional) Browse the network of word senses linked to a synset.
 
 ### Finding a synset from a word
 
