@@ -1,13 +1,6 @@
 C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\bin\Debug\WordNet_LINQ.dll.config
 C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\bin\Debug\WordNet_LINQ.dll
 C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\bin\Debug\WordNet_LINQ.pdb
-C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\bin\Debug\FlexibleRealization.dll
-C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\bin\Debug\SimpleNLG.dll
-C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\bin\Debug\FlexibleRealization.pdb
-C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\bin\Debug\SimpleNLG.pdb
-C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\bin\Debug\SimpleNLG.dll.config
-C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\obj\Debug\WordNet_LINQ.csprojAssemblyReference.cache
 C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\obj\Debug\WordNet_LINQ.csproj.CoreCompileInputs.cache
-C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\obj\Debug\WordNet_LINQ.csproj.CopyComplete
 C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\obj\Debug\WordNet_LINQ.dll
 C:\Users\gregw\source\repos\WordNet_GUI\WordNetLINQ\obj\Debug\WordNet_LINQ.pdb

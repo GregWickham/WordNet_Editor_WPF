@@ -1,14 +1,9 @@
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\WordNet_UI_WPF.exe.config
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\WordNet_UI_WPF.exe
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\WordNet_UI_WPF.pdb
-C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\FlexibleRealization.dll
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\WordNet_LINQ.dll
-C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\SimpleNLG.dll
-C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\FlexibleRealization.pdb
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\WordNet_LINQ.pdb
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\WordNet_LINQ.dll.config
-C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\SimpleNLG.pdb
-C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\bin\Debug\SimpleNLG.dll.config
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\obj\Debug\WordNet_UI_WPF.csprojAssemblyReference.cache
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\obj\Debug\SynsetNavigatorControl.g.cs
 C:\Users\gregw\source\repos\WordNet_GUI\WordNet_UI_WPF\obj\Debug\WordNetBrowserWindow.g.cs
