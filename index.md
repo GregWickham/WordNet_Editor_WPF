@@ -55,7 +55,7 @@ For relations that link to adjacent synsets, double-clicking on the gloss of a r
 
 ![Select hyponym - make or wage war](/images/Synset_navigator_make_or_wage_war.jpg)
 
-Double-clicking on "make or wage war" causes that synset to become the new focus of the synset navigator:
+Double-clicking on **"make or wage war"** causes that synset to become the new focus of the synset navigator:
 
 ![Synset navigator - change focus by following relation](/images/New_synset_navigator_focus.jpg)
 
