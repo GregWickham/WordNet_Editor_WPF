@@ -9,3 +9,5 @@ The SQL Server database that supports this application can be found at [this rep
 ### Setup
 
 The database connection string is built in the ConnectionString property of [WordNetData.cs](https://github.com/GregWickham/WordNet_GUI/blob/master/WordNetLINQ/WordNetData.cs).
+
+![WordNet Editor screenshot](https://github.com/GregWickham/WordNet_GUI/blob/gh-pages/images/WordNet_browser_screenshot_1.jpg)
