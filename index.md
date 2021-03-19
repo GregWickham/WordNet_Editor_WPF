@@ -43,13 +43,15 @@ If you'd like to find a different, unrelated synset, you can always get back to 
 
 The single most interesting and valuable thing about WordNet is its rich network of links between synsets; and the browser UI provides a simple and intuitive means of navigating this network of links.
 
-Most -- but not all -- of the lists in the synset navigator contain synsets that are adjacent to the focused synset, through one or more of the relation types defined in WordNet.  In the first two columns of this example, we can see the relations for hypernymy and hyponymy, holonymy and meronymy, types and instances.  These relation types are applicable to all synsets, regardless of the part of speech they represent.
+Most -- but not all -- of the lists in the synset navigator contain synsets that are adjacent to the focused synset, through one or more of the relation types defined in WordNet.  
 
-![Synset relations common to all parts of speech](/images/Synset_relations_common_to_all_parts_of_speech.jpg)
+In WordNet, the particular relations that can apply between two synsets depend on the parts of speech of both synsets.  This figure shows the relations for the verb synset **"be engaged in a fight; carry on a fight"**:
 
-The third column contains relations that are unique to a particular part of speech -- in this case, verbs:
+![Synset relations for a sample verb synset](/images/Synset_relations_verb_fight.jpg)
 
-![Synset relations for verbs only](/images/Synset_relations_for_verbs_only.jpg)
+Here are the relations for the adjective synset **"delighting the senses or exciting intellectual or emotional admiration"**:
+
+![Synset relations for a sample adjective synset](/images/Synset_relations_adjective_beautiful.jpg)
 
 For relations that link to adjacent synsets, double-clicking on the gloss of a related synset will follow the corresponding link, and focus the synset navigator on the selected adjacent synset.  For example, one of the hyponyms of **"be engaged in a fight; carry on a fight"** is **"make or wage war"**:
 
