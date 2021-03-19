@@ -6,10 +6,6 @@ using WordNet.UserInterface.ViewModels;
 
 namespace WordNet.UserInterface
 {
-    public delegate WordSpecification DroppedWordConverter(DragEventArgs e);
-
-    internal delegate void SynsetSelected_EventHandler(Synset synset);
-
     /// <summary>Interaction logic for WordToSynsetSelector.xaml</summary>
     public partial class WordToSynsetSelectorControl : UserControl
     {
@@ -80,18 +76,22 @@ namespace WordNet.UserInterface
 
         private void WordLookup_DragEnter(object sender, DragEventArgs e)
         {
-            e.Effects = DragDropEffects.Link;
-            e.Handled = true;
+            if (ConvertDroppedWordFrom != null)
+            {
+                e.Effects = DragDropEffects.Link;
+                e.Handled = true;
+            }
         }
 
         private void WordLookup_Drop(object sender, DragEventArgs e)
         {
-            WordSpecification droppedWord = ConvertDroppedWordFrom(e);
-            if (droppedWord != null) LookupSynsetsFor(droppedWord);
+            if (ConvertDroppedWordFrom != null)
+            {
+                WordSpecification droppedWord = ConvertDroppedWordFrom(e);
+                if (droppedWord != null) LookupSynsetsFor(droppedWord);
+            }
         }
 
-
         #endregion Drag / Drop of IElementTreeNode onto WordLookup        
-
     }
 }
