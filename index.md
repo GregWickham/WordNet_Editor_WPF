@@ -47,19 +47,19 @@ Most -- but not all -- of the lists in the synset navigator contain synsets that
 
 In WordNet, the particular relations that can apply between two synsets depend on the parts of speech of both synsets.  The user interface dynamically configures itself to show the appropriate relations for the focused synset.
 
-For example, this figure shows the relations for the verb synset **"be engaged in a fight; carry on a fight"**:
+For example, this figure shows the relations for the verb synset **be engaged in a fight; carry on a fight**:
 
 ![Synset relations for a sample verb synset](/images/Synset_relations_verb_fight.jpg)
 
-And here are the relations for the adjective synset **"delighting the senses or exciting intellectual or emotional admiration"**:
+And here are the relations for the adjective synset **delighting the senses or exciting intellectual or emotional admiration**:
 
 ![Synset relations for a sample adjective synset](/images/Synset_relations_adjective_beautiful.jpg)
 
-For relations that link to adjacent synsets, double-clicking on the gloss of a related synset will follow the corresponding link, and focus the synset navigator on the selected adjacent synset.  For example, one of the hyponyms of **"be engaged in a fight; carry on a fight"** is **"make or wage war"**:
+For relations that link to adjacent synsets, double-clicking on the gloss of a related synset will follow the corresponding link, and focus the synset navigator on the selected adjacent synset.  For example, one of the hyponyms of **be engaged in a fight; carry on a fight** is **make or wage war**:
 
 ![Select hyponym - make or wage war](/images/Synset_navigator_make_or_wage_war.jpg)
 
-Double-clicking on **"make or wage war"** causes that synset to become the new focus of the synset navigator:
+Double-clicking on **make or wage war** causes that synset to become the new focus of the synset navigator:
 
 ![Synset navigator - change focus by following relation](/images/New_synset_navigator_focus.jpg)
 
@@ -83,11 +83,11 @@ The word sense navigator is similar to the synset navigator:  Many of its lists 
 
 ![Word sense navigator - descendant](/images/Word_sense_navigator_descendent.jpg)
 
-If we double-click **descendent** in the list of words derived from **descend**, **descendent** becomes the new focus of the word senses navigator:
+If we double-click **descendent** in the related Derivations list, **descendent** becomes the new focus of the word senses navigator:
 
 ![Word sense navigator - descendent focused](/images/Word_sense_navigator_descendent_focused.jpg)
 
-The adjective word sense **descendent** is linked to a different synset than the verb synset **"move downward and lower, but not necessarily all the way"**.  To make the "descendent" synset the focus of the synset navigator, you can drag its word sense header and drop it onto the synset gloss header:
+The adjective word sense **descendent** is linked to a different synset than the verb synset **move downward and lower, but not necessarily all the way**.  To make the **descendent** synset the focus of the synset navigator, you can drag its word sense header and drop it onto the synset gloss header:
 
 ![Drag word sense and drop it onto synset gloss](/images/DragWordSenseToSynset.gif)
 
