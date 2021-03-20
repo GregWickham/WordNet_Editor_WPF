@@ -45,11 +45,13 @@ The single most interesting and valuable thing about WordNet is its rich network
 
 Most -- but not all -- of the lists in the synset navigator contain synsets that are adjacent to the focused synset, through one or more of the relation types defined in WordNet.  
 
-In WordNet, the particular relations that can apply between two synsets depend on the parts of speech of both synsets.  This figure shows the relations for the verb synset **"be engaged in a fight; carry on a fight"**:
+In WordNet, the particular relations that can apply between two synsets depend on the parts of speech of both synsets.  The user interface configures itself to show the appropriate relations for the focused synset.
+
+For example, this figure shows the relations for the verb synset **"be engaged in a fight; carry on a fight"**:
 
 ![Synset relations for a sample verb synset](/images/Synset_relations_verb_fight.jpg)
 
-Here are the relations for the adjective synset **"delighting the senses or exciting intellectual or emotional admiration"**:
+And here are the relations for the adjective synset **"delighting the senses or exciting intellectual or emotional admiration"**:
 
 ![Synset relations for a sample adjective synset](/images/Synset_relations_adjective_beautiful.jpg)
 
@@ -63,13 +65,13 @@ Double-clicking on **"make or wage war"** causes that synset to become the new f
 
 ### Navigating word senses
 
-To show word senses linked to the synset focused in the synset navigator, click the "Show wood senses" toggle button:
+To show word senses linked to the synset focused in the synset navigator, click the "Show word senses" toggle button:
 
 ![Show word senses toggle button](/images/Show_word_senses_button.jpg)
 
 This action opens the word senses navigator.  At the top of this navigator is a list of the word senses related to the focused synset:
 
-![Word senses linked to synset](/images/Word_senses_make_or_wage_war.jpg)
+![Word senses linked to synset](/images/Word_senses_move_downward_and_lower.jpg)
 
 Double-clicking a word sense in this list makes that word sense the focus of the word sense navigator:
 
