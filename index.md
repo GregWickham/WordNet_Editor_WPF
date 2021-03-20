@@ -85,6 +85,11 @@ If we double-click "descendent" in the list of words derived from "descend," "de
 
 ![Word sense navigator - descendent focused](/images/Word_sense_navigator_descendent_focused.jpg)
 
+The adjective "descendent" is linked to a different synset than the verb synset **"move downward and lower, but not necessarily all the way"**.  To make the "descendent" synset the focus of the synset navigator, you can drag its word sense header and drop it onto the synset gloss header:
+
+![Drag word sense and drop it onto synset gloss](/images/DragWordSenseToSynset.gif)
+
+
 
 
 
