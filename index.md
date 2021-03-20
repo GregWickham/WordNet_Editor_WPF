@@ -77,13 +77,13 @@ Double-clicking a word sense in this list makes that word sense the focus of the
 
 ![Word sense navigator](/images/Word_sense_navigator_1.jpg)
 
-The word sense navigator is similar to the synset navigator:  Many of its lists contain word senses adjacent to the focused word sense, through relations defined in WordNet.  For example, "warrior" is a noun derived from the verb "war":
+The word sense navigator is similar to the synset navigator:  Many of its lists contain word senses adjacent to the focused word sense, through relations defined in WordNet.  For example, "descendent" is an adjective derived from the verb "descend":
 
-![Word sense navigator - warrior](/images/Word_sense_navigator_warrior.jpg)
+![Word sense navigator - descendant](/images/Word_sense_navigator_descendent.jpg)
 
-If we double-click "warrior" in the list of words derived from "war," "warrior" becomes the new focus of the word senses navigator:
+If we double-click "descendent" in the list of words derived from "descend," "descendent" becomes the new focus of the word senses navigator:
 
-![Word sense navigator - warrior focused](/images/Word_sense_navigator_warrior_focused.jpg)
+![Word sense navigator - descendent focused](/images/Word_sense_navigator_descendent_focused.jpg)
 
 
 
