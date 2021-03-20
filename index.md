@@ -89,6 +89,8 @@ The adjective "descendent" is linked to a different synset than the verb synset 
 
 ![Drag word sense and drop it onto synset gloss](/images/DragWordSenseToSynset.gif)
 
+Notice that the border of the synset gloss header changes to a green color, to indicate that it is a valid drop target for the object being dragged.
+
 
 
 
