@@ -45,7 +45,7 @@ The single most interesting and valuable thing about WordNet is its rich network
 
 Most -- but not all -- of the lists in the synset navigator contain synsets that are adjacent to the focused synset, through one or more of the relation types defined in WordNet.  
 
-In WordNet, the particular relations that can apply between two synsets depend on the parts of speech of both synsets.  The user interface configures itself to show the appropriate relations for the focused synset.
+In WordNet, the particular relations that can apply between two synsets depend on the parts of speech of both synsets.  The user interface dynamically configures itself to show the appropriate relations for the focused synset.
 
 For example, this figure shows the relations for the verb synset **"be engaged in a fight; carry on a fight"**:
 
