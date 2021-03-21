@@ -1,6 +1,6 @@
-# WordNet User Interface for WPF
+# WordNet Editor for WPF
 
-This is a user interface for Wordnet, written on the Windows WPF platform and using a SQL Server database that contains the WordNet data.
+This is a browser / editor user interface for Wordnet, written on the Windows WPF platform and using a SQL Server database that contains the WordNet data.
 
 Here's [the project site](https://gregwickham.github.io/WordNet_GUI/).
 
